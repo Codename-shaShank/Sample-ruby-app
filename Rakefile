@@ -2,7 +2,7 @@ require 'rake'
 
 desc 'Run tests'
 task :test do
-  sh 'rspec app_spec.rb'
+  sh 'rspec'
 end
 
 desc 'Start the Sinatra application'
