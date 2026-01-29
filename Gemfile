@@ -10,5 +10,5 @@ gem "faraday",     "~> 1.8.0"    # HTTP client library
 
 # ---- Dev / test tooling ----
 group :development, :test do
-  gem "rspec",   "~> 3.11.0"
+  gem "rspec",   "~> 3.13.2"
 end
